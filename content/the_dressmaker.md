@@ -1,8 +1,6 @@
 ---
 title: The Dressmaker
 edited: 11 March 2014
-word_count: 2,755
-read_time: 14
 ---
 
 Alfie was born at the Bristol Royal Infirmary, nurses clad in all-white long gowns and caps shuffled around his mother as she gave birth, her husband standing at her side. The young Mr. and Mrs. Wilde held an enviable position in southwest England. Mr. Wilde’s father had helped establish the University of Bristol and was president of The Wilde Co., the largest manufacturer of military training equipment in Britain. Mrs. Wilde was originally from London, where her family owned a number of units in Shepherd’s Market, renting out rooms to the likes of Michael Arlen and Tallulah Bankhead. Alfie, however, never lived the life his parents did, because only six years after he was born, the German Luftwaffe bombed Bristol, and Mr. and Mrs. Wilde died, two of 40,000 English civilians killed by the raid that lasted 76 consecutive days.

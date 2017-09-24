@@ -1,5 +1,5 @@
 .DS_Store
 .*/
-dist/
-bower_components/
-node_modules/
+target/
+.nrepl-history
+.nrepl-port

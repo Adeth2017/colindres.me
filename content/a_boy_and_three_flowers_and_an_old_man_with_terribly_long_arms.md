@@ -1,8 +1,6 @@
 ---
 title: A Boy and Three Flowers, and An Old Man With Terribly Long Arms
 edited: 11 March 2014
-word_count: 3,520
-read_time: 18
 ---
 
 The rain fell upon the village for three days. It was so much that the sky appeared as a single ash-gray thing, and the black sand on the beach would turn into a stew of rotten shellfish and salty mud. In this village a boy named Arlo lived with his mother in a square house made of yellow stone and with a straw roof; it was built into the side of a grassy hill and surrounded by dark grey, black and green flint pebbles and tufts of clumpy white chalk nodules that protruded out of the grass.
@@ -15,15 +13,15 @@ Just as they always did after it rained, the neighbors crowded into Arlo and his
 
 The old man walked into the house and made his way to the corner of the room, pushing neighbors aside, as he watched them crowd near the kitchen yelling out for more crab legs. Nobody seemed to notice him, and this made him happy, until a few moments later a young girl saw the strange man, and with the curiosity of a child, decided to ask him his name.
 
-“Paolo,” the man answered. 
+“Paolo,” the man answered.
 
 “What are you doing here,” asked the girl.
 
 “I smelled the cooking, and I came to see what could produce such a powerful smell.”
 
-The girl looked at Paolo with a strange eye. 
+The girl looked at Paolo with a strange eye.
 
-“Is the cook here,” he asked. 
+“Is the cook here,” he asked.
 
 “Yes,” answered the girl, “she’s in the kitchen next to Arlo.” She pointed towards the boy who was filling neighbors’ baskets with crabs. Paolo nodded his head and waved the girl away.
 

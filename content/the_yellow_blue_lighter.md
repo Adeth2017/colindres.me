@@ -1,12 +1,10 @@
 ---
 title: The Yellow/Blue Lighter
 edited: 11 March 2014
-word_count: 3,190
-read_time: 16
 ---
 
 The two front windows of the grey Chevy are open. Dennis hangs his hand outside the driver-side window as he holds a lit cigarette and flicks off the ash into the breeze that comes rolling down Santa Fe Avenue from Mars Hill.
-   
+
 Dennis brings the cigarette back up and inhales one final breath of his dying Marlboro Red, then tosses the butt down to the cold parking lot pavement where it disappears into a mixture of frosty sleet, black asphalt and oil. He pulls out another cigarette from the pack resting on the car's sun-cracked dashboard. Dennis licks the sides of the cigarette with his tongue and then places it between his parched, puckered lips. His wife once asked him why he licks his cigarettes before smoking, and Dennis answered that it made the cigarette burn slower and the smoke run softer. She replied that he was just giving death a kiss on the lips. Those are the sorts of memories that remind him why he loves his wife, why he’ll miss his wife when he dies.
 
 After briefly inspecting his swollen nose in the rusty side mirror, Dennis lifts a lighter up to his face and tries several times to light the cigarette, but the lighter is out of gas. He rustles around inside the car, looking for another lighter, or a packet of matches, anything he can use to burn his cigarette. Normally Dennis would use the electrical lighter that plugs into the car’s DC output, but when he came back home a few weeks ago his wife took it out of the car and hid it somewhere in their house. 
@@ -41,7 +39,7 @@ Her eyes are usually a piercing shade of blue, but on cold days like this one th
 “How have you been,” she asks Dennis.
 
 “I’ve been good.”
- 
+
 “Yeah, I’ve been good too, how’s your wife?”
 
 “She's like she's always been. Not too fine, but not too bad. There's always something that she's terribly interested in that, you know, I'm not.”
@@ -50,7 +48,7 @@ Her eyes are usually a piercing shade of blue, but on cold days like this one th
 
 Dennis exhales another big, dense cloud of smoke. “No it’s not.”
 
-***
+---
 
 Although it should be the lunch rush, the diner isn’t anywhere close to full. All across the room empty booths dot the floor plan, like little red flags that let everyone who works there know how bad things have gotten in Flagstaff. For most people, eating lunch at the diner is a luxury that the economy doesn’t afford them, so it’s been brown-bag lunches for the past year.
 
@@ -86,7 +84,7 @@ Maggie stares at her brother again. He stares back for a while, but then, abashe
 
 “He's fine John,” says Maggie. “I'm fine. There isn't really anything wrong with either of us. There's absolutely nothing wrong with him or me.”
 
-***
+---
 
 “Are you going to come inside?”
 
@@ -142,7 +140,7 @@ Dennis looks at her coat trapped in the car door and wonders if it looks funny f
 
 “No, not always,” he answers. “I feel alone most of the time. But, you help me with that; you make me feel good sometimes. You make me feel like I’m not the only one out here. You know, sometimes I just want to go away, but you keep me here. You keep me thinking.”
 
-***
+---
 
 Linda comes by and pours more coffee into their cups. John grabs the bowl of sugar cubes and gently shakes it at her.
 
@@ -172,7 +170,7 @@ Maggie smiles and nods her head. She doesn’t really care about the apartment r
 
 “I know it is. You told me when you bought it.”
 
-*** 
+--- 
 
 Dennis and the young lady are sitting in the car, smoking. They're having fun performing tricks with the cigarette smoke. Dennis blows smoke into an empty plastic water bottle that was lying on the floor of the car and squeezes it, which creates tiny perfect smoke rings. 
 
@@ -268,7 +266,7 @@ Whitney holds Dennis’ hand and brings it up to her mouth and kisses it.
 
 “You have to do something,” she says. “Do what you’re feeling inside. But, you have to do it alone. I can’t help you. Nobody can do it but you.”
 
-***
+---
 
 “I have to go,” says John. “I'm meeting the doctor. She'll tell me what's best to do with him, whether we send him to Azpire or not. You have to trust me, Maggie. You understand, Maggie, right? I'm doing it for you.”
 
@@ -279,7 +277,7 @@ John stays quiet and stares at his empty coffee cup.
 
 “I’ll go pay the bill and see you outside by your car.” He gets up quickly and leaves the booth.
 
-*** 
+---
 
 Dennis sits in his car alone and finishes his cigarette; he flicks the short butt out the window, and then exhales deeply. He stares up at the roof of his car for a while. He then reaches back and picks up the canteen. 
 
@@ -291,9 +289,3 @@ Dennis pours a murky liquid out of the canteen and into the plastic water bottle
 He turns the canteen from side to side in his hands, scrutinizing its exterior. Then, he clutches it close to his heart. He takes a look inside the diner and sees his wife sitting at the booth. He blows her a kiss, smiles and looks down.
 
 He reaches underneath his seat and picks up a black .9mm Beretta 92 and puts its steely end to his head; it feels cold against his temple. He shoots.
-
-
-
-
-
-
